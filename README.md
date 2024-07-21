@@ -1,3 +1,36 @@
+Empty input
+
+![2222](https://github.com/user-attachments/assets/7d01ab93-a270-4dc8-a615-6988e73fb508)
+
+Pass < 8 symbols
+
+![55512](https://github.com/user-attachments/assets/9829f301-82e4-45af-bd4a-d47c0950d6e1)
+
+Easy pass
+
+![2411](https://github.com/user-attachments/assets/e69e428e-b9ed-43c0-a76b-2653beed712e)
+
+Strong Password
+
+![312](https://github.com/user-attachments/assets/13454508-838a-4f97-94fd-ff49e68b1935)
+
+
+
+Task:
+If the field is empty, all sections are gray;
+If the field has less than 8 characters, all sections are red;
+If the password is easy - the first section is red the rest are gray;
+If the password is medium - the first two sections are yellow the last one is gray;
+If the password is strong, all sections are green;
+
+
+
+
+
+
+
+
+
 # Passcheck
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.1.1.
